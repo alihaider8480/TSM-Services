@@ -17,6 +17,8 @@ Queue sa bhar nikalna ki command tRun START.TSM or agar ma TAFJEE sa jaka Execut
 
 COS TSS.LIST
 Is sa hum TS ka menu dakhta hai 
+![image](https://user-images.githubusercontent.com/40827670/223373970-f9848547-cabc-4a77-ae3f-f1899f871f0d.png)
+
 
 ![image](https://user-images.githubusercontent.com/40827670/223371493-05d456e8-15ca-42e8-b1b3-fdd297f5defc.png)
 ![image](https://user-images.githubusercontent.com/40827670/223371599-929e9b56-18ac-4a7f-b3fd-6031c6cf79da.png)
